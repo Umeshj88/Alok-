@@ -5,14 +5,14 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # User credentials
-USERNAME = "admin"
-PASSWORD = "admin@123"
+USERNAME = ""
+PASSWORD = ""
 
 # Scholar number
 SCHOLAR_NO = "12345"
 
 # Target URL (login portal)
-LOGIN_URL = "http://13.232.204.65/schoolerp_test/"
+LOGIN_URL = ""
 
 # Initialize WebDriver
 try:
